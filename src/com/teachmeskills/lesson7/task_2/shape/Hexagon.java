@@ -1,8 +1,8 @@
 package com.teachmeskills.lesson7.task_2.shape;
 
-public class Rectangle extends BaseShape {
+public class Hexagon extends BaseShape{
 
-    public Rectangle(String nameShape) {
+    public Hexagon(String nameShape) {
         super(nameShape);
     }
 

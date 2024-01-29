@@ -4,4 +4,11 @@ public abstract class BaseShape {
 
     String nameShape;
 
+    public BaseShape(String nameShape) {
+        this.nameShape = nameShape;
+    }
+
+    public abstract void getPerimeterShape();
+
+    public abstract void getFigureShape();
 }

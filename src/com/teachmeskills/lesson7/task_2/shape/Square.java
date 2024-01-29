@@ -1,8 +1,8 @@
 package com.teachmeskills.lesson7.task_2.shape;
 
-public class Rectangle extends BaseShape {
+public class Square extends BaseShape{
 
-    public Rectangle(String nameShape) {
+    public Square(String nameShape) {
         super(nameShape);
     }
 
