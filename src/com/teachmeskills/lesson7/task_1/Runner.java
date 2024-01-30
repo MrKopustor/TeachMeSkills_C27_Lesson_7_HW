@@ -7,6 +7,18 @@ import com.teachmeskills.lesson7.task_1.personnel.Worker;
 
 import java.util.Scanner;
 
+/**
+ * Create a Runner class
+ * Create three objects "Director", "Worker", "Accountant".
+ * Activate scanning from the console
+ * Create a field to accept the position code
+ * Run a loop to check the correctness of the entered value
+ * Run the condition operator
+ * If the values match, output the position information.
+ * If not, output an error
+ * Close the scan method
+ */
+
 public class Runner {
     public static void main(String[] args) {
 

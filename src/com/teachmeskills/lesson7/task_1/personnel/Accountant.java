@@ -2,6 +2,14 @@ package com.teachmeskills.lesson7.task_1.personnel;
 
 import com.teachmeskills.lesson7.task_1.demeanor.IJobTitle;
 
+/**
+ * Create the Accountant class
+ * Create fields for Accountant
+ * Create a constructor with Accountant fields
+ * Call the interface method
+ * Write method body
+ */
+
 public class Accountant implements IJobTitle {
     public String name, surname, position;
     public int age, id;

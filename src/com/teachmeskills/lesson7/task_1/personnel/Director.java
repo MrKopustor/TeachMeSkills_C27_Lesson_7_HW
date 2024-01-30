@@ -2,6 +2,14 @@ package com.teachmeskills.lesson7.task_1.personnel;
 
 import com.teachmeskills.lesson7.task_1.demeanor.IJobTitle;
 
+/**
+ * Create the Director class
+ * Create fields for Director
+ * Create a constructor with fields for Director
+ * Call the interface method
+ * Write the body of the method
+ */
+
 public class Director implements IJobTitle {
     public String name, surname, patronymic, position;
     public int age, id;
